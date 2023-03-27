@@ -31,11 +31,9 @@
 </template>
 
 <script>
-import Date from './Date.vue';
 
 export default {
-    name: "KPLH",
-    components: { Date }
+    name: "KPLH"
 }
 
 </script>
